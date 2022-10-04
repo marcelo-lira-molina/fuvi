@@ -4,9 +4,18 @@ aoutor. marcelo
 lugear: itv
 intrucciones: esto es una plantilla */
 
-#include<iosstream<>
 
-using namespace std;
 
-int main ()
-return 0;
+ using namespace std;
+
+const double pi =3.0141592
+
+int main(){
+
+
+double radio,area 
+cout << "ingrese el radio del del circulo: ";
+ cin>> radio ;
+ area = pi *pow * radio ;
+ cout << "el  area de un circulo con radio"<< radio<<  " es " <<area;
+}
