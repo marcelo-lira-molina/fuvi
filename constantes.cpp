@@ -10,7 +10,8 @@ intrucciones: esto es una plantilla */
 
 const double pi =3.0141592
 
-int main(){
+ 
+ int (){
 
 
 double radio,area 
