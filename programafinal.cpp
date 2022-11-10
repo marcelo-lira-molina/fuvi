@@ -18,8 +18,8 @@ int main(){
     int o, j, salvarj=-1, salvari, ni=0;
     
     do{
-        system("clear");
-        printf("Menu---\n");
+      
+        printf("----Bienvenido a su diccionario personal---\n");
         printf("1. Agregar palabra\n");
         printf("2. Mostrar palabras\n");
         printf("3. Buscar palabra\n");
@@ -27,7 +27,7 @@ int main(){
         printf("5. Eliminar palabra\n");
         printf("Seleccion: ");
         scanf("%d",&o);
-        system("clear");
+      
 
         switch(o){
             case 1:
